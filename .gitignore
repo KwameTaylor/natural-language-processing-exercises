@@ -1,3 +1,4 @@
 env.py
 .DS_store
 *.txt
+*.csv
