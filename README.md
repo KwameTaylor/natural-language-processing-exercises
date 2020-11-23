@@ -1,2 +1,3 @@
-# natural-language-processing-exercises
-# codeup-nlp-project
+# Natural Language Processing Exercises
+
+This repo holds my NLP exercises for Codeup.
